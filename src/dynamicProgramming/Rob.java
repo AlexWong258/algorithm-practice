@@ -4,6 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class Rob {
+    // from wangdachui
     public int rob(int[] nums) {
         return max(nums, 0);
     }
